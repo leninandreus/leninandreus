@@ -13,21 +13,14 @@
   <a href="https://www.linkedin.com/in/lenin11/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:TU_CORREO">
-    <img src="https://img.shields.io/badge/Correo-EA4335?style=flat&logo=gmail&logoColor=white" alt="Correo"/>
-  </a>
-  <a href="ENLACE_A_TU_CV">
-    <img src="https://img.shields.io/badge/Currículum-333333?style=flat&logo=readthedocs&logoColor=white" alt="Currículum"/>
-  </a>
   <img src="https://img.shields.io/badge/Ubicación-Quito,%20Ecuador-0078D4?style=flat" alt="Ubicación"/>
-  <img src="https://img.shields.io/badge/Modalidad-Remota-1D9E75?style=flat" alt="Modalidad remota"/>
 </p>
 
 ---
 
 ## Sobre mí
 
-Profesional de datos con más de **4 años de experiencia** desarrollando soluciones analíticas para los sectores de **salud, seguros, turismo, call center y construcción**.
+Profesional de datos con más de **5 años de experiencia** desarrollando soluciones analíticas para los sectores de **salud, financiero, seguros, turismo, call center y construcción**.
 
 He participado en el ciclo completo de los datos: desde la extracción, limpieza y transformación, hasta la creación de **data marts, automatizaciones, modelos predictivos, APIs y dashboards ejecutivos** utilizados para apoyar decisiones de negocio.
 
@@ -35,9 +28,7 @@ He participado en el ciclo completo de los datos: desde la extracción, limpieza
 - Automatizo procesos manuales y repetitivos, logrando reducir hasta un **80 % del tiempo operativo** en procesos de negocio.
 - Desarrollo modelos de **Machine Learning y Deep Learning** aplicados a problemas reales.
 - Construyo procesos ETL, servicios de datos y aplicaciones utilizando Python, FastAPI y Docker.
-- Me especializo en la aplicación de datos e inteligencia artificial en **salud y seguros**.
-- Cuento con formación en *Health Information Literacy for Data Analytics* de **UC Davis**.
-
+- Me especializo en la aplicación de datos e inteligencia artificial en **salud, fianzas y seguros**.
 ---
 
 ## Áreas de experiencia
@@ -128,24 +119,13 @@ Sistema de segmentación semántica para identificar regiones tumorales en imág
 ## Formación y desarrollo profesional
 
 - **Health Information Literacy for Data Analytics** — UC Davis.
-- **Microsoft Power BI Data Analyst – PL-300** — En preparación.
-- Profundización continua en Machine Learning, inteligencia artificial generativa y soluciones de datos en Azure.
+- **What is Data Science?** — IBM.
+- **Masterclass de automatizaciones con IA** — Raiola Networks.
+- **Data Storytelling con Power BI creando Narrativas memorables** — Udemy.
+- **Habilidades humanas en la era de la IA por Microsoft y LinkedIn** — Microsoft.
+- **Especialización de Ingeniería de Datos e IA con Azure** — Smart Data.
+- **Academy Accreditation - Databricks Lakehouse Fundamentals** — Databricks.
+
 
 ---
 
-## Actualmente construyendo
-
-Mi portafolio seguirá una progresión enfocada en proyectos completos y reproducibles:
-
-```text
-Análisis exploratorio de datos
-        ↓
-SQL y modelado de datos
-        ↓
-Dashboards en Power BI
-        ↓
-Machine Learning
-        ↓
-Despliegue de modelos
-        ↓
-IA generativa y agentes
