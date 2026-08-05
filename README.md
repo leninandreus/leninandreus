@@ -50,18 +50,7 @@ Data Scientist con más de **4 años de experiencia** en salud, seguros, turismo
 | Proyecto | Descripción | Stack |
 |----------|-------------|-------|
 | [🧠 Segmentación de tumores cerebrales](https://github.com/leninandreus/brain-tumor-segmentation-deep-learning) | Deep Learning con MONAI para segmentar gliomas en resonancia magnética (dataset MSD) | Python · MONAI · PyTorch |
-| *(en camino)* | Predicción de riesgo de renovación en seguros | Python · scikit-learn · FastAPI |
-| *(en camino)* | Pipeline de consolidación de flujo de caja multibanco | Python · pandas · Power BI |
 
 ---
 
-### Mis estadísticas en GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leninandreus&show_icons=true&locale=es&theme=default" alt="Estadísticas de GitHub" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leninandreus&layout=compact&locale=es&theme=default" alt="Lenguajes más usados" height="165"/>
-</p>
-
----
-
-<p align="center"><i>De los datos a las decisiones — en salud, seguros y más allá.</i></p>
+<p align="center"><i>De los datos a las decisiones</i></p>
