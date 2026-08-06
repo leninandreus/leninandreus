@@ -99,7 +99,3 @@ Sistema de segmentación semántica para identificar regiones tumorales en imág
 - **Academy Accreditation: Databricks Lakehouse Fundamentals** — Databricks.
 
 ---
-
-<p align="center">
-  <i>De los datos a las decisiones, y de las decisiones a soluciones inteligentes.</i>
-</p>
