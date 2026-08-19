@@ -51,6 +51,7 @@ He participado en el ciclo completo de los datos: desde la extracción, limpieza
 ![MONAI](https://img.shields.io/badge/MONAI-5A45FF?style=flat&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 
 ### Plataformas y herramientas
 
