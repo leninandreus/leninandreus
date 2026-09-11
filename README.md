@@ -28,7 +28,7 @@ He participado en el ciclo completo de los datos: desde la extracción, limpieza
 - Automatizo procesos manuales y repetitivos, logrando reducir hasta un **80 % del tiempo operativo** en procesos de negocio.
 - Construyo procesos ETL, modelos de datos y flujos de integración para consolidar información proveniente de distintas fuentes.
 - Desarrollo modelos de **Machine Learning y Deep Learning** aplicados a problemas reales.
-- Implemento servicios y aplicaciones de datos utilizando Python, FastAPI, Flask y Docker.
+- Implemento servicios y aplicaciones de datos utilizando Python, FastAPI, Flask, Django y Docker.
 - Me especializo en la aplicación de datos e inteligencia artificial en **salud, finanzas y seguros**.
 
 ---
