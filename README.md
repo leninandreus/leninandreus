@@ -63,9 +63,26 @@ He participado en el ciclo completo de los datos: desde la extracción, limpieza
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
----
-
 ## Proyecto destacado
+
+### 💳 Modelo de Riesgo Crediticio (Credit Scoring)
+
+Modelo de Machine Learning de punta a punta para predecir el incumplimiento crediticio (*Probability of Default*) sobre ~150.000 clientes. Comparación de algoritmos con métricas propias del sector financiero e interpretabilidad del modelo final.
+
+**Características principales:**
+
+- Análisis exploratorio, partición estratificada y preprocesamiento sin *data leakage* (Pipelines de scikit-learn).
+- Comparación de Regresión Logística, Random Forest y XGBoost con validación cruzada.
+- Evaluación con métricas de riesgo: **ROC-AUC, Gini y KS** (no *accuracy*, por el desbalance de clases).
+- Modelo final **XGBoost (AUC 0.86 · KS 0.56)**, interpretado con **SHAP** para hacerlo defendible.
+
+**Tecnologías:** Python · scikit-learn · XGBoost · SHAP · pandas
+
+<p>
+  <a href="https://github.com/leninandreus/credit-risk-model">
+    <img src="https://img.shields.io/badge/Ver_repositorio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositorio"/>
+  </a>
+</p>
 
 ### 🧠 Segmentación de tumores cerebrales con Deep Learning
 
