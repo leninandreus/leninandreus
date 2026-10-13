@@ -65,6 +65,26 @@ He participado en el ciclo completo de los datos: desde la extracción, limpieza
 
 ## Proyecto destacado
 
+### 🏥 Clinical RAG — Asistente de medicamentos con LLMs
+
+Sistema de **Retrieval-Augmented Generation (RAG)** que responde consultas sobre medicamentos basándose en ~248.000 registros reales, evitando alucinaciones al responder únicamente desde datos verificables. Incluye un **estudio comparativo de tres modelos de lenguaje**.
+
+**Características principales:**
+
+- Pipeline RAG completo: embeddings multilingües + base vectorial (ChromaDB) con búsqueda semántica.
+- Comparación de 3 LLMs: **Groq**, **Gemini** (API) y un modelo **local con Ollama** (privacidad total).
+- Evaluación con KPIs: latencia, abstención, y calidad vía *LLM as a judge* (fidelidad y relevancia).
+- Arquitectura escalable con interfaz intercambiable de LLMs y **API REST con FastAPI**.
+
+**Tecnologías:** Python · ChromaDB · sentence-transformers · FastAPI · Groq · Gemini · Ollama
+
+<p>
+  <a href="https://github.com/leninandreus/clinical-rag">
+    <img src="https://img.shields.io/badge/Ver_repositorio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositorio"/>
+  </a>
+</p>
+
+
 ### 💳 Modelo de Riesgo Crediticio (Credit Scoring)
 
 Modelo de Machine Learning de punta a punta para predecir el incumplimiento crediticio (*Probability of Default*) sobre ~150.000 clientes. Comparación de algoritmos con métricas propias del sector financiero e interpretabilidad del modelo final.
